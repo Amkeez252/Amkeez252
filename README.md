@@ -19,9 +19,7 @@ I'm a passionate software Engineer<br>I'm looking to collaborate on software tes
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amkeez252&theme=onedark)](https://github.com/Amkeez252/github-profile-trophy)
 
-
-[![](https://visitcount.itsvg.in/api?id=Amkeez252&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=Amkeez252&style=flat-square)
 <!--
 **Amkeez252/Amkeez252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
