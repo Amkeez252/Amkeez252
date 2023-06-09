@@ -14,13 +14,13 @@ I'm a passionate software Engineer<br>I'm looking to collaborate on software tes
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amkeez252&theme=nightowl)](https://git.io/streak-stats)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triplee12&layout=compact)](https://github.com/triplee12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amkeez252&layout=compact)](https://github.com/Amkeez252/github-readme-stats)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amkeez252&theme=onedark)](https://github.com/Amkeez252/github-profile-trophy)
 
 
-[![](https://visitcount.itsvg.in/api?id=Nancyiddy&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Amkeez252&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **Amkeez252/Amkeez252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
