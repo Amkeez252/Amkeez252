@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Auwal Abdulmalik, Welcome to my Github page! :smile: :heart_eyes:
 
 ### 💫 About Me:
-I'm a passionate software Engineer<br>I'm looking to collaborate on software testing related Frontend & backend development.
+I'm a passionate software Engineer<br>I'm looking to collaborate on software testing related to Frontend & backend development.
 
 ### 🌐 Socials:
 
