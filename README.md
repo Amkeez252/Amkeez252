@@ -5,7 +5,7 @@
 ### 💫 About Me:
 I'm a passionate software Engineer<br>I'm looking to collaborate on software testing related to Frontend & backend development.
 
-### 🌐 find me here:
+### You can find me here: world:
 <p align="left">
   <a href="https://https://twitter.com/amalik_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color:#1DA1F2; color:#1DA1F2" /></a>
   <a href="https://www.linkedin.com/in/auwal-abdulmalik-5432a4252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color:#0A66C2; color:#0A66C2" /></a>
