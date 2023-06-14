@@ -1,3 +1,5 @@
+![](keyboard-5017973_1280.jpg)
+
 ## Hi there 👋 I'm Auwal Abdulmalik, Welcome to my Github page! :smile: :heart_eyes:
 
 ### 💫 About Me:
